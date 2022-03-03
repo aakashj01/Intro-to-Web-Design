@@ -1,0 +1,8 @@
+body{
+    color: rgb(119, 0, 255)!important;/*will not change body color*/
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+}
+head{
+    color: red;
+}
