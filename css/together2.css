@@ -1,0 +1,24 @@
+header{
+    background-color: aqua;
+    text-align: center;
+    padding-bottom: 15px;
+}
+nav{
+    font-variant: small-caps;
+}
+h2{
+    background-color: aqua;
+    
+}
+section{
+	width:40%;
+	margin-right: 2%;
+    float: left;
+	
+}
+img{
+    width: 100px;
+}
+footer{
+    clear: both;
+}
