@@ -6,19 +6,40 @@ header{
 nav{
     font-variant: small-caps;
 }
+nav a{
+    width:22%;
+    display: inline-block;
+    
+}
 h2{
     background-color: aqua;
     
 }
-section{
-	width:40%;
+.half{
+	width:45%;
 	margin-right: 2%;
     float: left;
+    text-align: center;
 	
 }
 img{
     width: 100px;
 }
 footer{
+    background: aqua;
+    padding: 5px;
+    padding-left: 10px;
     clear: both;
+    text-align: center;
+}
+.grad{
+    background: aqua;
+    background: -moz-linear-gradient(top,aqua,white);
+    background: -webkit-linear-gradient(aqua,white);
+}
+h2{
+    text-align: center;
+}
+ul{
+    list-style:decimal;
 }
